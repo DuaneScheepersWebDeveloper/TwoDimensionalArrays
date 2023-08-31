@@ -1,0 +1,17 @@
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0-windows\TwoDimensionalArrays.exe
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0-windows\TwoDimensionalArrays.deps.json
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0-windows\TwoDimensionalArrays.runtimeconfig.json
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0-windows\TwoDimensionalArrays.dll
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0-windows\TwoDimensionalArrays.pdb
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.vbproj.AssemblyReference.cache
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.Form1.resources
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.vbproj.GenerateResource.cache
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.AssemblyInfo.vb
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.vbproj.CoreCompileInputs.cache
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.dll
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\refint\TwoDimensionalArrays.dll
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.pdb
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\TwoDimensionalArrays.genruntimeconfig.cache
+C:\Users\dev00\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0-windows\ref\TwoDimensionalArrays.dll
